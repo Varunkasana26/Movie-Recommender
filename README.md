@@ -32,3 +32,5 @@ Place the dataset CSV inside a folder named `data/` before running the app.
 
 Check the requirement file
 
+<img width="1717" height="800" alt="Screenshot 2025-08-30 123705" src="https://github.com/user-attachments/assets/c072958b-712f-4790-a580-e72da9e8ca6c" />
+
